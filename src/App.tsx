@@ -112,69 +112,6 @@ function App() {
         <div style={feedNews}>
           <p>NEWS</p>
         </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
-        <div style={feedNews}>
-          <p>NEWS</p>
-        </div>
       </div>
       
     </div>
